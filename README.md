@@ -22,11 +22,11 @@ ORCID:0000-0002-8545-9501
 - **Lillian Barros**<sup>1,2</sup>  <br/>
 ORCID:0000-0002-9050-5189 <br/>
 
-<sup>1</sup> Centro de Investigação de Montanha (CIMO), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal
-<sup>2</sup> Laboratório Associado para a Sustentabilidade e Tecnologia em Regiões de Montanha (SusTEC), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal
-<sup>3</sup> EMBRAPA Agroenergy, 70297-400, Brasília, DF, Brazil
-<sup>4</sup> EMBRAPA Rice and Beans, Rodovia GO-462, Km 12, Zona Rural, C.P. 179, CEP 75375-000, Santo Antônio de Goiás, Goiás, Brazil
-<sup>5</sup> School of Agronomy, Federal University of Goiás – UFG, Avenida Esperança, S/n., Campus Samambaia, CEP 74.690-900
+<sup>1</sup> Centro de Investigação de Montanha (CIMO), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal <br/>
+<sup>2</sup> Laboratório Associado para a Sustentabilidade e Tecnologia em Regiões de Montanha (SusTEC), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal <br/>
+<sup>3</sup> EMBRAPA Agroenergy, 70297-400, Brasília, DF, Brazil <br/>
+<sup>4</sup> EMBRAPA Rice and Beans, Rodovia GO-462, Km 12, Zona Rural, C.P. 179, CEP 75375-000, Santo Antônio de Goiás, Goiás, Brazil <br/>
+<sup>5</sup> School of Agronomy, Federal University of Goiás – UFG, Avenida Esperança, S/n., Campus Samambaia, CEP 74.690-900 <br/>
 
 ---
 ### Metadata:
