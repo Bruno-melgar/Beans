@@ -1,5 +1,5 @@
 ### Document:
-- **Title of the dataset:** Olea
+- **Title of the dataset:** Beans
 - **Data underlying publication:** <br/>
 Nutrient-Enriched from Beans and Rice Byproducts: Developing A Machine Learning Tool-Kit for Process Optimization
 ---
