@@ -1,32 +1,32 @@
 ### Document:
-- **Title of the dataset:** Olea
+- **Title of the dataset:** Beans
 - **Data underlying publication:** <br/>
 Nutrient-Enriched from Beans and Rice Byproducts: Developing A Machine Learning Tool-Kit for Process Optimization
 ---
 
 ### Creators:
-- **Suelen C. Frantz<sup>1,4,5</sup> ** <br/>	
+- **Suelen C. Frantz**<sup>1,4,5</sup>  <br/>	
 ORCID:0000-0003-1230-7977
-- **Bruno Melgar<sup>1</sup> ** <br/>	
+- **Bruno Melgar**<sup>1</sup>  <br/>	
 ORCID:0000-0002-5825-6872
-- **Tiane C. Finimundy<sup>1,2</sup> ** <br/>
+- **Tiane C. Finimundy**<sup>1,2</sup>  <br/>
 ORCID:0000-0003-3516-0795
-- **Guilherme C. da Silva<sup>3</sup> ** <br/>	
+- **Guilherme C. da Silva**<sup>3</sup>  <br/>	
 ORCID:
-- **Rosângela N. Carvalho<sup>4</sup> ** <br/>	
+- **Rosângela N. Carvalho**<sup>4</sup>  <br/>	
 ORCID:
-- **Felix Gonçalves De Siqueira<sup>3</sup> ** <br/>
+- **Felix Gonçalves De Siqueira**<sup>3</sup>  <br/>
 ORCID:	
-- **Priscila Zaczuck Bassinello<sup>4</sup> ** <br/>
+- **Priscila Zaczuck Bassinello**<sup>4</sup>  <br/>
 ORCID:0000-0002-8545-9501	
-- **Lillian Barros<sup>1,2</sup> ** <br/>
+- **Lillian Barros**<sup>1,2</sup>  <br/>
 ORCID:0000-0002-9050-5189 <br/>
 
-<sup>1</sup> Centro de Investigação de Montanha (CIMO), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal
-<sup>2</sup> Laboratório Associado para a Sustentabilidade e Tecnologia em Regiões de Montanha (SusTEC), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal
-<sup>3</sup> EMBRAPA Agroenergy, 70297-400, Brasília, DF, Brazil
-<sup>4</sup> EMBRAPA Rice and Beans, Rodovia GO-462, Km 12, Zona Rural, C.P. 179, CEP 75375-000, Santo Antônio de Goiás, Goiás, Brazil
-<sup>5</sup> School of Agronomy, Federal University of Goiás – UFG, Avenida Esperança, S/n., Campus Samambaia, CEP 74.690-900
+<sup>1</sup> Centro de Investigação de Montanha (CIMO), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal <br/>
+<sup>2</sup> Laboratório Associado para a Sustentabilidade e Tecnologia em Regiões de Montanha (SusTEC), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal <br/>
+<sup>3</sup> EMBRAPA Agroenergy, 70297-400, Brasília, DF, Brazil <br/>
+<sup>4</sup> EMBRAPA Rice and Beans, Rodovia GO-462, Km 12, Zona Rural, C.P. 179, CEP 75375-000, Santo Antônio de Goiás, Goiás, Brazil <br/>
+<sup>5</sup> School of Agronomy, Federal University of Goiás – UFG, Avenida Esperança, S/n., Campus Samambaia, CEP 74.690-900 <br/>
 
 ---
 ### Metadata:
