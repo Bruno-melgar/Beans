@@ -1,7 +1,7 @@
 ### Document:
 - **Title of the dataset:** Beans
 - **Data underlying publication:** <br/>
-Nutrient-Enriched from Beans and Rice Byproducts: Developing A Machine Learning Tool-Kit for Process Optimization
+Nutrient-Enriched Flours from Bean and Rice Byproducts: A Multivariate Exploratory Analysis of Solid-State Fermentation with Macrofungi and Lactic Acid Bacteria
 ---
 
 ### Creators:
