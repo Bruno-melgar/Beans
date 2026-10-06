@@ -23,8 +23,8 @@ inst(packages)
 
 # Dataframe ---------------------------------------------------------------
 
-(data <- read_excel("Desktop/SuelenDF2.xlsx", 
-                   sheet = "PCA prep"))
+(data <- read_excel("~/Desktop/BeansDF.xlsx", 
+                       sheet = "PCA"))
 summary(data)
 
 
@@ -78,23 +78,24 @@ fviz_pca_var(df.pca,
 )
 
 ## Biplot -----------------------------------------------------------------
-fviz_pca_biplot(df.pca, repel = TRUE,
-                     col.var = "darkslategray4", # Variables color
-                     col.ind = "gold3"  # Individuals color
-)
+fviz_pca_biplot(df.pca,
+                repel = TRUE,
+                col.var = "darkslategray4",
+                col.ind = "gold3") +
+  scale_x_reverse() +
+  scale_y_reverse()
 
 
-
+agg$Code
 
 # K-means clustering ------------------------------------------------------
 ## Dataframe prep ---------------------------------------------------------
 (dfsc <- scale(df))
-obs_order <- c("CF",	"CFA",	"CB",	"CBA",	"102F",	"134F",	"161F",	"EUF",	
-               "MBF",	"PSF",	"102AF",	"134AF",	"161AF",	"EUAF",	"MBAF",	
-               "PSAF",	"LPF72h",	"LRF72h",	"LBF72h",	"PPF72h",	"LPF120h",	
-               "LRF120h",	"LBF120h",	"PPF120h",	"LPAF72h",	"LRAF72h",	
-               "LBAF72h",	"PPAF72h",	"LPAF120h",	"LRAF120h",	"LBAF120h",	
-               "PPAF120h")
+obs_order <- c("B-C_B",      "B-C_BR",     "B-LB_B120",  "B-LB_B72",  "B-LB_BR120", "B-LB_BR72",  "B-LP_B120", 
+               "B-LP_B72",   "B-LP_BR120", "B-LP_BR72",  "B-LR_B120",  "B-LR_B72",   "B-LR_BR120", "B-LR_BR72", 
+               "B-PP_B120",  "B-PP_B72"  , "B-PP_BR120" ,"B-PP_BR72" , "F-C_B"  ,    "F-C_BR"   ,  "F-FH_B"  ,  
+               "F-FH_BR",    "F-LC_B" ,    "F-LC_BR",    "F-PD_B" ,    "F-PD_BR" ,   "F-PO_B"  ,   "F-PO_BR" ,  
+               "F-PP_B" ,    "F-PP_BR" ,   "F-PS_B" ,    "F-PS_BR")
 dfsc <- dfsc[obs_order,]
 
 ## Distance Matrix --------------------------------------------------------
@@ -134,7 +135,10 @@ k3<-kmeansruns(dfsc, krange=3, runs=100)
 p5 <- fviz_cluster(k3, data=dfsc) +
   scale_colour_manual(values = c("darkslategray3", "gold3", "darkslategray4")) +
   scale_fill_manual(values = c("darkslategray3", "gold3", "darkslategray4"))
-p5 + theme_minimal() +
+p5 + 
+  scale_x_reverse() +
+  scale_y_reverse() +
+  theme_minimal() +
   theme(plot.title = element_text(hjust = 0.5, size = 16),
         axis.text = element_text(size = 14),
         axis.title = element_text(size = 16),
