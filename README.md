@@ -51,7 +51,7 @@ Can be found in the Metadata xlsx file
 Can be found in the publication, will be linked to the dataset once published online
 
 - **This dataset contains the following files:**
-  - **Beans** file (Excel file with the entire dataset)
+  - **BeansDF** file (Excel file with the entire dataset)
   - **Metadata** file (Excel file with explanations of all microorganism and variables)
   - Code file **Dendrogram and PCA and k-means.R** includes the global analyses conducted in the manuscript
   -Code file **Single_analysis.ipynb** includes the single variable analyses conducted in the manuscript
